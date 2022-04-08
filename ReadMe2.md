@@ -12,6 +12,8 @@ senoldemir@ymail.com
 
 www.linkedin.com/in/senoldemir
 
+[linkedin](www.linkedin.com/in/senoldemir/)
+
 
 **- Build Tool:** Maven
 
