@@ -66,7 +66,7 @@ with in the 24 hours and check the all test steps and status.
 ------------
 
 2024 June;
-https://github.com/aliihsancelik
+
 
 ### End
 
