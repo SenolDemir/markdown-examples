@@ -1,6 +1,6 @@
 # Template Test Project
 
-(Description) Foobar is a Python library for dealing with word pluralization.
+(Description) A concise yet descriptive title and an overview of the project’s purpose.
 
 ## Prerequisites
 
