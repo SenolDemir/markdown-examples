@@ -7,7 +7,7 @@ UI Automation Skeleton Assessment
 
 *Software QA Engineer*
 
-aliihsancelik1@gmail.com
+senoldemir@ymail.com
 
 www.linkedin.com/in/demirsenol
 
