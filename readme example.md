@@ -49,7 +49,7 @@ mvn clean verify
 with in the 24 hours and check the all test steps and status.
 
 
-## Feature
+## Features
 #### Testing Framework with Cucumber BBD and DDT (Json File)
 - I am using Page Object Modelling to enhance test maintenance and reducing code duplication. This is one of the most famous Selenium approaches.
 - I used Maven to manage and centralize my dependencies which I have pom.xml
