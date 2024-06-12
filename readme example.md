@@ -6,12 +6,13 @@
 
 #### System Requirements
 Java 8+ JDK
+Apache Maven (to be able to run tests by command line)
 
 #### Recommended Plugins for IDE
 Cucumber for Java from JetBrains\
 Gherkin from JetBrains
 
-#### Environment: 
+## Environment: 
 `https://bstackdemo.com/`
 
 ## Installation
