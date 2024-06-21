@@ -24,6 +24,8 @@ www.linkedin.com/in/demirsenol
 #### System Requirements: 
 - Java 8 + JDK
 
+- <script src="https://gist.github.com/SenolDemir/879da9c9577a215c67530f80ccfb5266.js"></script>
+
 ------------
 ## Test RUN 
 
