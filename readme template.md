@@ -79,6 +79,10 @@ I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).
 
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
+
 
 
 > [!NOTE]
