@@ -79,6 +79,8 @@ I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 See the section on [`code`](#code).
 
+
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
