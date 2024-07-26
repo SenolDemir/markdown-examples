@@ -49,7 +49,7 @@ import maven dependencies from POM
   ```bash
   mvn clean verify
   ```
-***It provides generated HTML reports, as well.***  
+*It provides generated HTML reports, as well.*  
 
 ## Test Reports Locations
 1- Cucumber HTML Plugin Reports
