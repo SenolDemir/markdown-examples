@@ -35,9 +35,9 @@ import maven dependencies from POM
 
 Go **src -> test > java > Runners > CukesRunner** and Run  
 To generate "HTML Maven Cucumber Report" ;   
-    > Open Maven right side panel
-    > Double Click Project's Lifecycle
-    > Click "verify"
+> Open Maven right side panel  
+> Double Click Project's Lifecycle  
+> Click "verify"
 
 
 #### Way 2
