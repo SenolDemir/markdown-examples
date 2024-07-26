@@ -83,7 +83,7 @@ Please make sure to update tests as appropriate.
 
 senoldemir@ymail.com
 
-[linkedin](www.linkedin.com/in/senoldemir/)
+[linkedin](https://www.linkedin.com/in/senoldemir/)
 
 July 2024
 
