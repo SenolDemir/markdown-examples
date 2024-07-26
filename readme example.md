@@ -85,6 +85,8 @@ senoldemir@ymail.com
 
 [linkedin](www.linkedin.com/in/senoldemir/)
 
+July 2024
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
