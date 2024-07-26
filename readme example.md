@@ -33,8 +33,6 @@ import maven dependencies from POM
 
 #### Way 1
 
- - Clone the projects
- - Import maven dependencies from POM
  - Go **src -> test > java > Runners > CukesRunner** and Run
  - To generate "HTML Maven Cucumber Report" ; 
     > Open Maven right side panel
