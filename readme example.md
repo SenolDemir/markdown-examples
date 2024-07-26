@@ -42,6 +42,13 @@ import maven dependencies from POM
 >> double click to 'project lifecycle'  
 >> click 'verify'
 
+<details>
+<summary>To run only:</summary>
+<br>
+Tin the project directory go to: <br>
+src > test > java > Runners > CukesRunner class and run it.
+</details>
+
 
 
 #### Way 2
@@ -81,11 +88,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
+
 
 
 
