@@ -81,6 +81,12 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 
 
 ## Prepared By
