@@ -40,7 +40,7 @@ To generate **HTML Maven Cucumber Report** :
     > double click project's lifecycle
     > click "verify"
 
-> #### Way 1
+#### Way 1
 >
 > - in the project directory go to:
 > - **src > test > java > Runners > CukesRunner** and run
