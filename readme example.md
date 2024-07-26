@@ -88,6 +88,10 @@ senoldemir@ymail.com
 
 <a href="https://www.linkedin.com/in/senoldemir/" target="_blank">linkedin</a>
 
+ <a href="https://www.geeksforgeeks.org/" 
+           target="_blank">here 
+        </a> to visit GeeksForGeeks website. 
+
 
 July 2024
 
