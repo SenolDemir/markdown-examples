@@ -42,12 +42,6 @@ import maven dependencies from POM
 >> double click to 'project lifecycle'  
 >> click 'verify'
 
-<details>
-<summary>To run only:</summary>
-<br>
-Tin the project directory go to: <br>
-src > test > java > Runners > CukesRunner class and run it.
-</details>
 
 
 
