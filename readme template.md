@@ -29,6 +29,18 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](assets/images/screenshot.png)
     ```
 
+ ```bash
+  ssh -i MyKey.pem ec2-user@PublicDNS
+  ```
+  scirpt block with language name
+```java
+public class Hello {
+  public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+    }
+}
+```
+
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
@@ -62,3 +74,18 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain a
