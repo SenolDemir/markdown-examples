@@ -79,12 +79,12 @@ I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).
 
-##Tables  
+## Tables  
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
