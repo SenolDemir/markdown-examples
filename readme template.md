@@ -79,13 +79,12 @@ I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).
 
+##Tables  
 
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>  
-
-
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
