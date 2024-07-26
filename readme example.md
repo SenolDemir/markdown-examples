@@ -19,11 +19,11 @@ Gherkin from JetBrains
 `https://bstackdemo.com/`
 
 ## Installation
-- clone the project from github by using following command
+clone the project from github by using following command
 ```bash
 git clone <url>
 ```
-- import maven dependencies from POM
+import maven dependencies from POM
 
 ## Usage | Running Test
 
