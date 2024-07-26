@@ -41,7 +41,7 @@ To generate **HTML Maven Cucumber Report** :
     > click "verify"
 
 #### Way 2
-- Run from command line invoke:
+Run from command line invoke:
 ```bash
 mvn clean verify
 ```
