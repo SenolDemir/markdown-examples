@@ -37,8 +37,8 @@ in the project directory go to:
 **src > test > java > Runners > CukesRunner** and run
 To generate **HTML Maven Cucumber Report** :
     > open Maven right side panel
-    > double click project's lifecycle
-    > click "verify"
+    > double click to 'project lifecycle'
+    > click 'verify'
 
 #### Way 1
 
@@ -46,8 +46,8 @@ To generate **HTML Maven Cucumber Report** :
 > - **src > test > java > Runners > CukesRunner** and run
 > - To generate **HTML Maven Cucumber Report** :
 > - open Maven right side panel
-> - double click project's lifecycle
-> - click "verify"
+> - double click to 'Lifecycle'
+> - click 'verify'
 
 
 
