@@ -79,6 +79,15 @@ I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).
 
+<details>
+<summary>Dropdowns</summary>
+<br>
+Tin the project directory go to: <br>
+
+</details>
+
+
+
 ## Tables  
 
 | Syntax      | Description | Test Text     |
