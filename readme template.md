@@ -75,6 +75,10 @@ If you created an application or package and would like other developers to cont
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
