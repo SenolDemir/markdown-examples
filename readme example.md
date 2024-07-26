@@ -85,6 +85,8 @@ senoldemir@ymail.com
 
 [linkedin](https://www.linkedin.com/in/senoldemir/)
 
+<a href="https://www.linkedin.com/in/senoldemir/" target="_blank">Opens in new tab</a>
+
 July 2024
 
 
