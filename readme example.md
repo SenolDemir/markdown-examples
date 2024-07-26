@@ -34,8 +34,8 @@ import maven dependencies from POM
 #### Way 1
 
 To run only:  
-: in the project directory go to:  
-: ***src > test > java > Runners > CukesRunner*** class and run it.  
+> in the project directory go to:  
+> ***src > test > java > Runners > CukesRunner*** class and run it.  
 
 To run tests and generate **HTML Maven Cucumber Report** :  
 > open Maven right side panel  
