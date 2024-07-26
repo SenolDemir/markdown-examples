@@ -45,11 +45,12 @@ import maven dependencies from POM
 
 
 #### Way 2
-Run from command line invoke:
-```bash
-mvn clean verify
-```
-It provides generated HTML reports, as well.  
+- Run from command line invoke:
+  ```bash
+  mvn clean verify
+  ```
+***It provides generated HTML reports, as well.***  
+
 ## Test Reports Locations
 1- Cucumber HTML Plugin Reports
 **target -> cucumber-html-reports > overview-steps.html** 
