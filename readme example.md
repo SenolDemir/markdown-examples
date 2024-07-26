@@ -33,19 +33,19 @@ import maven dependencies from POM
 
 #### Way 1
 
- - Go **src -> test > java > Runners > CukesRunner** and Run
- - To generate "HTML Maven Cucumber Report" ; 
+Go **src -> test > java > Runners > CukesRunner** and Run
+To generate "HTML Maven Cucumber Report" ; 
     > Open Maven right side panel
     > Double Click Project's Lifecycle
     > Click "verify"
 
 
 #### Way 2
-- Run from command line invoke:
-  ```bash
-  mvn clean verify
-  ```
-  *It provides generated HTML reports, as well.*  
+Run from command line invoke:
+```bash
+ mvn clean verify
+```
+*It provides generated HTML reports, as well.*  
 
 ## Test Reports Locations
 1- Cucumber HTML Plugin Reports
