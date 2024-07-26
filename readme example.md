@@ -2,6 +2,9 @@
 
 (Description) A concise yet descriptive title and an overview of the project’s purpose.
 
+- Build Tool: Maven
+- Test Framework: Cucumber BBD (with JUnit Assertions)
+
 ## Prerequisites
 
 #### System Requirements
