@@ -88,7 +88,7 @@ Please make sure to update tests as appropriate.
 
 *Software Development Engineer In Test (SDET)*
 
-<senoldemir@ymail.com>
+`senoldemir@ymail.com`
 
 <a href="https://www.linkedin.com/in/senoldemir/" target="_blank">linkedin</a>
 
