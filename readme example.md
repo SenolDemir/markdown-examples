@@ -37,10 +37,10 @@ import maven dependencies from POM
 >> in the project directory go to:  
 >> ***src > test > java > Runners > CukesRunner*** class and run it.  
 
-To run tests and generate **HTML Maven Cucumber Report** :  
-> open Maven right side panel  
-> double click to 'project lifecycle'  
-> click 'verify'
+> To run tests and generate **HTML Maven Cucumber Report** :  
+>> open Maven right side panel  
+>> double click to 'project lifecycle'  
+>> click 'verify'
 
 
 
