@@ -29,6 +29,9 @@ import maven dependencies from POM
 
 *Note: To run all scenarios in login.feature, use `@Regression` tag in the CukesRunner class/Cucumber Options*
 
+> [!NOTE]
+> To run all scenarios in login.feature, use `@Regression` tag in the CukesRunner class/Cucumber Options
+
 #### Way 1
 
 - in the project directory go to:
