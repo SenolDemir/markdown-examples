@@ -4,6 +4,7 @@
 
 - Build Tool: Maven
 - Test Framework: Cucumber BBD (with JUnit Assertions)
+- Framework design is based on Page Object Model
 
 ## Prerequisites
 
