@@ -39,5 +39,5 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/senoldemir)
 - **[Twitter]**(your_twitter_profile_link)
