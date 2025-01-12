@@ -1,4 +1,4 @@
-﻿#  Setups in  EC2 Linux Instance (2024)
+﻿#  Jenkins Setups in  EC2 Linux Instance (2024)
 
 ## Initial Step
 
