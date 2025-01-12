@@ -1,15 +1,13 @@
-# Jenkins
-
 
 # Jenkins Installation and Setup in Local Machines
 
 ## on Mac
 
 #### with homebrew installer  
-Install the latest LTS version:
-`brew install jenkins-lts`  
+Install the latest LTS version:  
+```brew install jenkins-lts```
 Start the Jenkins service:  
-`brew services start jenkins-lts`  
+```brew services start jenkins-lts```
 Restart the Jenkins service**:  
 `brew services restart jenkins-lts`  
 Stop Jenkins service:  
